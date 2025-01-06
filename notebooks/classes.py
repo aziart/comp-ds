@@ -4,3 +4,4 @@ class Paths:
     driver_info = '../data/driver_info.csv'
     fix_info ='../data/fix_info.csv'
     rides_info ='../data/rides_info.csv'
+    stratified_valid ='../data/stratified_valid.csv'
