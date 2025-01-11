@@ -6,3 +6,4 @@ class Paths:
     rides_info ='../data/rides_info.csv'
     stratified_valid ='../data/stratified_valid.csv'
     multi_label ='../data/multi_label.csv'
+    apply_practice_sample ='../data/03.1.02.csv'
