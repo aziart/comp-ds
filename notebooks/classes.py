@@ -7,3 +7,4 @@ class Paths:
     stratified_valid ='../data/stratified_valid.csv'
     multi_label ='../data/multi_label.csv'
     apply_practice_sample ='../data/03.1.02.csv'
+    groupby_practice_sample ='../data/03.1.03.csv'
