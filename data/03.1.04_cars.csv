@@ -1,0 +1,8 @@
+car_id,model,riders,target_class
+s-1723833v,BMW 320i,58695,engine_check
+E16896376o,VW Polo VI,89960,engine_overheat
+X10754765V,VW Tiguan,125986,electro_bug
+a-4209036O,Renault Sandero,83147,engine_fuel
+D-1246382Y,Kia Rio X,60134,break_bug
+M20797256F,Renault Sandero,65913,engine_overheat
+L-1156474z,Tesla Model 3,39718,break_bug
