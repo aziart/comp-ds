@@ -10,3 +10,4 @@ class Paths:
     groupby_practice_sample ='../data/03.1.03.csv'
     merge_practice_sample_cars = "../data/03.1.04_cars.csv"
     merge_practice_sample_rides = "../data/03.1.04_rides.csv"
+    transform_practice_sample_rides = "../data/03.1.05_rides.csv"
