@@ -13,3 +13,4 @@ class Paths:
     transform_practice_sample_rides = "../data/03.1.05_rides.csv"
     transform_practice_sample_rides_2 = "../data/03.1.06_rides.csv"
     pivot_practice_sample_cars = "../data/03.1.07_cars.csv"
+    pr_generate_gold_feature = "../data/03.2.08.csv"
