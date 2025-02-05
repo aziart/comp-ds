@@ -1,4 +1,5 @@
 class Paths:
+    fen_train = '../data/fen_train.csv'
     car_train = '../data/car_train.csv'
     car_test = '../data/car_test.csv'
     driver_info = '../data/driver_info.csv'
