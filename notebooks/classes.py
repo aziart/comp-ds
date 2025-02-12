@@ -21,3 +21,5 @@ class Paths:
     fen_train = '../data/fen_train.csv'
     fen_test = '../data/fen_test.csv'
     fen_sample_solution = '../data/fen_sample_solution.csv'
+
+    quickstart_train = '../data/quickstart_train.csv'
