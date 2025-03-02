@@ -23,3 +23,4 @@ class Paths:
     fen_sample_solution = '../data/fen_sample_solution.csv'
 
     quickstart_train = '../data/quickstart_train.csv'
+    feature_selection_sample = '../data/03.3.03_fs_task1_10f.csv'
