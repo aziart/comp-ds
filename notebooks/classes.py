@@ -25,3 +25,4 @@ class Paths:
     quickstart_train = '../data/quickstart_train.csv'
     feature_selection_sample = '../data/03.3.03_fs_task1_10f.csv'
     rand_feat_selection_sample = '../data/03.3.06_fs_task2_22f.csv'
+    discard_noise_feats_sample = '../data/03.3.08_fs_task3_310f.csv'
