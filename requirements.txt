@@ -62,4 +62,4 @@ traitlets==5.14.3
 tzdata==2024.2
 wcwidth==0.2.13
 widgetsnbextension==4.0.13
-xgboost==2.1.4
+xgboost==3.0.0
