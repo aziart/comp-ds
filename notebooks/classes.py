@@ -30,3 +30,5 @@ class Paths:
 
     cal_housing_data = '../data/cal_housing.data'
     cal_housing_domain = '../data/cal_housing.domain'
+
+    json_sample = '../data/json-files/starwars-full-interactions.json'
